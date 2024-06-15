@@ -9,6 +9,7 @@ profile_1 = {
     
     "hobbies": ["gaming", "learning"]
 }
+
 print(profile_1["name"])
 
 print(profile_1["name"]) #dictionary_name[key]
